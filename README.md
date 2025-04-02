@@ -13,4 +13,4 @@ Bei Veränderung der Parkplatzsituation sendet er "free_spaces" und die Anzahl d
 
 ## Topic in
 
-Hier hört der Microcontroller. Sende "CAR_FORBIDDEN" wenn das Auto erlaubt ist, alles andere wird als Kennzeichen interpretiert.
+Hier hört der Microcontroller. Im Anschluss zu "WAITING_FOR_AUTH" sende "CAR_FORBIDDEN" wenn das Auto erlaubt ist, alles andere wird als Kennzeichen interpretiert.
