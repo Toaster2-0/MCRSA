@@ -23,3 +23,11 @@ MCR Verkabelung LCD und Servo. MQTT vollendet und getestet. Servo vollendet und 
 
 MCR LCD vollendet. -> Doofer LCD musste noch eine schraube gedreht werden 😠. PIR Sensor ist zu grob (4 meter ist zu viel). => IR Sensor vollendet und getestet. LED integriert. BTN integriert. Technik bis auf UART fertig (get und set Parkplätze fehlt noch).
 MCR UART jetzt auch fertig. MQTT Schnittstellen doku geschrieben.
+
+# 08.04.25
+
+KI [Python MQTT](https://www.emqx.com/en/blog/how-to-use-mqtt-in-python#real-world-python-mqtt-examples)
+
+# 29.04.25
+
+KI-MCR Python MQTT und KI code zusammenführen. Lego Basteln. MQTT macht bei Lukas aus irgendwelchen Gründen Probleme -> wenn man statt localhost PC-Lukas nutzt geht es... Kennzeichen werden eher schlecht erkannt... vl focus -> scheint der Hintergrund zu sein. LCD macht plötzlich Probleme... Lukas seinen gelötet, der scheint garnicht zu funktionieren.

@@ -65,7 +65,7 @@ void handle_stdin()
         case '\n':
             if (newSpaces != "")
             {
-                freeSpaces = stoi(newSpaces);
+                change_spaces(stoi(newSpaces) - freeSpaces);
                 Serial.print(freeSpaces);
                 Serial.println(" Parkplätze sind frei. ");
                 newSpaces = "";

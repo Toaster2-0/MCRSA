@@ -22,5 +22,6 @@ extern long opened_at;
 extern unsigned int freeSpaces;
 
 void transition(Event_t event);
+void change_spaces(int changeBy);
 
 #endif
